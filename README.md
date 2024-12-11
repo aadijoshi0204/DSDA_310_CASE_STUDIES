@@ -1,4 +1,4 @@
-# DSDA 310 Senior Seminar Capstone Projects
+# Data Science Capstone Case Studies
 
 This repository contains three case studies completed as part of the DSDA 310 Senior Seminar at Beloit College. These projects showcase applications of data science in education policy, YouTube analytics, and medical signal processing using convolutional neural networks.
 
