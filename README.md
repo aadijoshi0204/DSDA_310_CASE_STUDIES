@@ -1,6 +1,6 @@
 # Data Science Capstone Case Studies[^1]
 
-This repository contains three case studies completed as part of the DSDA 310 Senior Seminar at Beloit College. These projects showcase applications of data science in education policy, YouTube analytics, and medical signal processing using convolutional neural networks. These projects demonstrate my ability to apply advanced data science and analytics techniques to real-world challenges, showcasing my commitment to learning beyond my primary discipline and my capability to tackle complex data-driven problems. I would be happy to answer any questions regarding the below case studies. 
+These projects showcase applications of data science in education policy, YouTube analytics, and medical signal processing using convolutional neural networks. These projects demonstrate my ability to apply advanced data science and analytics techniques to real-world challenges, showcasing my commitment to learning beyond my primary discipline and my capability to tackle complex data-driven problems. I would be happy to answer any questions regarding the below case studies. 
 
 ## Overview of the case studies
 
